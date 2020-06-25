@@ -1,0 +1,1 @@
+Lecture Notes on __Distributed Computing and RPC/RMI__ are stored on Moodle, [https://cphbusiness.mrooms.net/mod/resource/view.php?id=165421](https://cphbusiness.mrooms.net/mod/resource/view.php?id=165421)

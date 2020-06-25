@@ -1,0 +1,15 @@
+# Public WSDL Repositories
+- https://jansipke.nl/examples-of-public-soap-web-services/
+- http://sencs.blogspot.com/2014/12/list-of-publicly-available-web-services.html
+- http://ws.cdyne.com/
+- http://ws.cdyne.com/ip2geo/ip2geo.asmx?wsdl
+- http://ws.cdyne.com/phoneverify/phoneverify.asmx?wsdl
+- http://ws.cdyne.com/emailverify/Emailvernotestemail.asmx?wsdl
+- http://wsf.cdyne.com/SpellChecker/check.asmx?wsdl
+- http://wsgeoip.lavasoft.com/ipservice.asmx?op=GetLocation
+- https://graphical.weather.gov/xml/SOAP_server/ndfdXMLserver.php?wsdl
+- http://wsgeoip.lavasoft.com/ipservice.asmx?wsdl
+- https://www.ebi.ac.uk/europepmc/webservices/soap?wsdl
+- http://web.archive.org/web/20090209081322/http://ripedev.com/webservices/LocalTime.asmx?op=LocalTimeByZipCode
+- http://web.archive.org/web/20040710090156/http://www.perfectxml.net/webservices/salesranknprice/bookservice.asmx
+- https://github.com/thomasWeise/distributedComputingExamples/tree/master/webServices/

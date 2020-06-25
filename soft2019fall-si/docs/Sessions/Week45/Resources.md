@@ -1,0 +1,17 @@
+## Reference
+- Microservices
+  - https://martinfowler.com/articles/microservices.html
+  - https://www.quora.com/What-is-micro-services-and-how-is-it-different-from-web-services
+  - https://www.ibm.com/developerworks/websphere/library/techarticles/1601_clark-trs/1601_clark.html
+  - https://marutitech.com/microservices-architecture-in-2019/
+  - https://mapr.com/ebook/microservices-and-containers/assets/microservices-and-containers.pdf
+- Docker
+  - https://www.docker.com/what-container
+  - https://www.youtube.com/watch?v=aLipr7tTuA4
+- DevOps
+  - https://www.youtube.com/watch?v=_I94-tJlovg
+- Spring Boot
+  - https://www.3pillarglobal.com/insights/building-a-microservice-architecture-with-spring-boot-and-docker-part-i
+  - http://littlebigextra.com/how-to-create-a-spring-boot-mvc-microservice-with-docker/
+  - http://start.spring.io/
+  - https://github.com/abhishek-galoda/Docker-Spring-Boot-MVC-MongoDB
